@@ -2,8 +2,6 @@
 
 Scraping algorithm for the ESI ratings of certain ships
 
-Code in the __ file
-
 ## Getting Started
 
 ### Dependencies
